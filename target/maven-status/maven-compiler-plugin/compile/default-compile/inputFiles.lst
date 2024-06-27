@@ -1,0 +1,6 @@
+/home/cerso/NetBeansProjects/login-agustin/src/main/java/net/laboratorioderedes/bean/LoginBean.java
+/home/cerso/NetBeansProjects/login-agustin/src/main/java/net/laboratorioderedes/controller/LoginServlet.java
+/home/cerso/NetBeansProjects/login-agustin/src/main/java/net/laboratorioderedes/util/DBConnection.java
+/home/cerso/NetBeansProjects/login-agustin/src/main/java/net/laboratorioderedes/dao/LoginDao.java
+/home/cerso/NetBeansProjects/login-agustin/src/main/java/net/laboratorioderedes/dao/LoginDaoImpl.java
+/home/cerso/NetBeansProjects/login-agustin/src/main/java/net/laboratorioderedes/controller/LogoutServlet.java
